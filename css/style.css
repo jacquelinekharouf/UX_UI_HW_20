@@ -1,4 +1,4 @@
-.img {
+img {
     border-radius: 10px;
 }
 
@@ -13,4 +13,28 @@ button {
     color: #F9F8F6 ;
     background-color:#3B937B;
     box-shadow: 5px 10px #888888;
+}
+a:hover {
+    color: #81C181;
+    text-decoration: none;
+}
+a:active{
+    color:#86DFEF;
+}
+.nav-item {
+    font-family: 'Gotu';
+    font-size: 19px;
+    color: #3B937B;
+}
+a.nav-link {
+    color: #3B937B;
+}
+.nav {
+    color: #3B937B;
+}
+h6 {
+    color:#3B937B;
+}
+h2 {
+    color: #81C181;
 }
