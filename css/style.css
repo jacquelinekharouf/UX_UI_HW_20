@@ -38,3 +38,14 @@ h6 {
 h2 {
     color: #81C181;
 }
+:root {
+    --bs-link-hover-color: #81C181;
+    --bs-emphasis-color-rgb: rgb(134, 223, 239);
+}
+#top {
+    background-color: rgb(134, 223, 239, .5);
+    
+}
+#phones {
+    background-color: #888888;
+}
